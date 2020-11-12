@@ -11,7 +11,7 @@
       <br /><br />
     <kbd>
       <h3><img width="16px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-repo.png" /> <a href="https://github.com/conceptualspace/nightlight">nightlight</a></h3>
-      <p>&nbsp;:waning_crescent_moon: Inverted display mode for better viewing in low light</p>
+      <p>&nbsp;inverted display mode for better viewing in low light</p>
       <p>&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-js.png" /> Javascript&nbsp;&nbsp;&nbsp;&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-star.png" /> 1024&nbsp;&nbsp;&nbsp;&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-fork.png" /> 512</p>
       <img width="50%" height="0" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/contributions.png" />
     </kbd>
@@ -28,14 +28,14 @@
       <br />
       <kbd>
       <h3><img width="16px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-repo.png" /> <a href="https://github.com/conceptualspace/enhance-o-tron-for-plex">enhance-o-tron-for-plex</a></h3>
-      <p>&nbsp;Adds :clapper: trailers, :game_die: random sorting, and :film_projector: ultrawide zoom to Plex</p>
+      <p>&nbsp;add trailers, random sorting, and ultrawide zoom to Plex</p>
       <p>&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-js.png" /> Javascript&nbsp;&nbsp;&nbsp;&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-star.png" /> 89&nbsp;&nbsp;&nbsp;&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-fork.png" /> 97</p>
         <img width="50%" height="0" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/contributions.png" />
     </kbd>
       <br /><br />
     <kbd>
       <h3><img width="16px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-repo.png" /> <a href="https://github.com/conceptualspace/tablist">tablist</a></h3>
-      <p>&nbsp;:bookmark_tabs: Browser extension to list the URLs of all open tabs</p>
+      <p>&nbsp;browser extension to list the URLs of all open tabs</p>
       <p>&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-js.png" /> Javascript&nbsp;&nbsp;&nbsp;&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-star.png" /> 61&nbsp;&nbsp;&nbsp;&nbsp;<img width="16px" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-fork.png" /> 73</p>
       <img width="50%" height="0" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/contributions.png" />
     </kbd>
