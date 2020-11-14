@@ -1,4 +1,6 @@
-<a href="https://github.com/conceptualspace/yet-another-speed-dial"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo1.png" /></a><a href="https://github.com/conceptualspace/enhance-o-tron-for-plex"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo2.png" /></a>
+<div>
+	<a href="https://github.com/conceptualspace/yet-another-speed-dial"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo1.png" /></a><a href="https://github.com/conceptualspace/enhance-o-tron-for-plex"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo2.png" /></a>
+</div>
 <a href="https://github.com/conceptualspace/nightlight"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo3.png" /></a><a href="https://github.com/conceptualspace/tablist"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo4.png" /></a>
 <a href="https://github.com/conceptualspace/reAMP"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo5.png" /></a><a href="https://github.com/conceptualspace/sxiv"><img width="460" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo6.png" /></a>
 
