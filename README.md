@@ -3,6 +3,9 @@
 [![reAMP](https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo5.png)](https://github.com/conceptualspace/reAMP)[![sxiv](https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo6.png)](https://github.com/conceptualspace/sxiv)
 
 <br />
+<a href="https://github.com/conceptualspace?tab=repositories"><img width="100%" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/contributions.png" /></a>
+
+<br />
 <p>Contribution Activity</p>
 
 <sub><strong>November 2020</strong></sub>
