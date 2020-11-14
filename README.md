@@ -17,7 +17,7 @@
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-pull2.png" />&nbsp;&nbsp;Opened 1 pull request in 1 repository<br />
 > <p><a href="https://github.com/react-native-video/react-native-video/pull/2168">react-native-video/react-native-video</a><br /><img width="14px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-pr.png" /> <sub>support opacity on android</sub></p><br/>
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-issue.png" />&nbsp;&nbsp;Created an issue in expo/expo-cli that received 1 comment<br />
-> <p><table><tr><td><h3> <img width="16px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-closed.png" /> certificate expired</h3>it's causing queued builds to freeze in the cloud; metro bundler outputs the following error after running... <br/><br /></td></tr></table></p><br />
+> <p><table><tr><td><h3> <img width="16px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-closed.png" /> certificate expired</h3>it's causing queued builds to freeze in the cloud; metro bundler outputs the following error after running these build commands... <br/><br /></td></tr></table></p><br />
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;196 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-nov.png" /><br />
 
 ---
