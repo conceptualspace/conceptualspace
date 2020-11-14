@@ -3,7 +3,8 @@
 [![reAMP](https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo5.png)](https://github.com/conceptualspace/reAMP)[![sxiv](https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo6.png)](https://github.com/conceptualspace/sxiv)
 
 <br />
-<a href="https://github.com/conceptualspace?tab=repositories"><img width="100%" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/contributions.png" /></a>
+<p>1337 contributions in the last year</p>
+<a href="https://github.com/conceptualspace?tab=repositories"><img width="100%" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/contributions2.png" /></a>
 <br />
 <br />
 <p>Contribution Activity</p>
