@@ -4,8 +4,6 @@
 
 [![reAMP](https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo5.png)](https://github.com/conceptualspace/reAMP) [![sxiv](https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo6.png)](https://github.com/conceptualspace/sxiv)
 
-<img src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo1.png" width="425"/> <img src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/repo2.png" width="425"/>
-
 <br />
 <p>Contribution Activity</p>
 
