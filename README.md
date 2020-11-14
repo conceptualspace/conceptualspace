@@ -20,7 +20,7 @@
 > <p><table><tr><td><h3> <img width="16px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-closed.png" /> certificate expired</h3>it's causing queued builds to freeze in the cloud; metro bundler outputs the following error after running these build commands... <br/><br /></td></tr></table></p><br />
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;196 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-nov.png" /><br />
 
----
+#
 
 <sub><strong>October 2020</strong></sub>
 
@@ -33,7 +33,7 @@
 > <p><a href="https://github.com/conceptualspace/sxiv">conceptualspace/sxiv</a></p><br />
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;108 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-oct.png" /><br />
 
----
+#
 
 <sub><strong>September 2020</strong></sub>
 
@@ -45,13 +45,13 @@
 > <a href="https://github.com/conceptualspace/tablist">conceptualspace/tablist</a>&nbsp;&nbsp;<sub>2 commits</sub><img width="160px" height="8px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-activity-2.png" /></p><br />
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;99 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-sep.png" /><br />
 
----
+#
 
 <sub><strong>August 2020</strong></sub>
 
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;321 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-aug.png" /><br />
 
----
+#
 
 <sub><strong>July 2020</strong></sub>
 
@@ -61,7 +61,7 @@
 > <a href="https://github.com/conceptualspace/tablist">conceptualspace/tablist</a>&nbsp;&nbsp;<sub>2 commits</sub><img width="160px" height="8px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-activity-2.png" /></p><br />
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;666 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-jul.png" /><br />
 
----
+#
 
 <sub><strong>June 2020</strong></sub>
 	
@@ -72,13 +72,13 @@
 > <p><table><tr><td><h3> <img width="16px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-open.png" /> [expo-av] video opacity always black</h3>:bug: Bug Report Summary of Issue On Android, when setting the opacity of a Video component, the background is always black instead of seeing the component... <br/><sub>2 comments</sub><br /><br /></td></tr></table></p><br />
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;198 contributions in private repositories<br />
 
----
+#
 
 <sub><strong>May 2020</strong></sub>
 
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;1,200,140 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-aug.png" /><br />
 
----
+#
 
 <sub><strong>April 2020</strong></sub>
 
