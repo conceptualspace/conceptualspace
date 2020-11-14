@@ -4,7 +4,7 @@
 
 <br />
 <a href="https://github.com/conceptualspace?tab=repositories"><img width="100%" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/contributions.png" /></a>
-
+<br />
 <br />
 <p>Contribution Activity</p>
 
