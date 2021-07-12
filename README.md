@@ -2096,7 +2096,3 @@
 <br />
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-... you are leaving the matrix ...
-<br /><br />
-<img align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/astro-mona2.jpg" />
-<br /><br />
