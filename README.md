@@ -89,56 +89,6 @@
 > <img width="28px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-private.png" />&nbsp;&nbsp;32 contributions in private repositories<img width="83px" align="right" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/octocon-jul.png" /><br />
 
 ---
-  
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<table><tr><td>
-<img width="160px" align="center" src="https://raw.githubusercontent.com/conceptualspace/conceptualspace/main/194.gif" />
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
-</td></tr></table>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
